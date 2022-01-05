@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LandingPage.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Milih_materi.unity
+    guid: 37da74a216b9f9b4ea7c565f58264564
+  - enabled: 1
+    path: Assets/Scenes/materi_glb.unity
+    guid: 07a07477a47f3654481965bf2961d407
+  - enabled: 1
+    path: Assets/Scenes/Video_glbb.unity
+    guid: f15f40b53401adc419406f9f18fa4e0c
+  - enabled: 1
+    path: Assets/Scenes/Kuis_glb.unity
+    guid: 009dbc865eaeff546b2b57b839e00a22
+  - enabled: 1
+    path: Assets/Scenes/Simulasi_glb.unity
+    guid: dfc74735d693f164683fa21f4788b846
+  - enabled: 1
+    path: Assets/Scenes/Informasi.unity
+    guid: 8dab1ab0594bb0543ba2efba345c5b42
+  - enabled: 1
+    path: Assets/Scenes/materi.unity
+    guid: 6bc85fccb0672ad40aae2e60211da077
+  - enabled: 1
+    path: Assets/Scenes/materi_gravitasi.unity
+    guid: 6bf4aad1f1907604fab57c77ba62d4d6
+  - enabled: 1
+    path: Assets/Scenes/materi_gravitasi_2.unity
+    guid: c5ac1f4b0536e1a4987f9a86b2d00664
+  - enabled: 1
+    path: Assets/Scenes/simulasi.unity
+    guid: b15119f9c25594f45a4cc8a8f7f855db
+  - enabled: 1
+    path: Assets/Scenes/video_gravitasi.unity
+    guid: a9d24e0dd59ece14ea1394f542e8cb0d
+  - enabled: 1
+    path: Assets/Scenes/simulasi gravitas.unity
+    guid: 3c775db22dc80b44a892d38871a0dc29
+  - enabled: 1
+    path: Assets/Scenes/kuis_gravitasi.unity
+    guid: 92f6eee6c160dbe408f6ec03ecde88ef
+  - enabled: 1
+    path: Assets/Scenes/materi_termo1.unity
+    guid: d24f1816592222c408feee51abdf13d4
+  - enabled: 1
+    path: Assets/Scenes/materi_termo2.unity
+    guid: a91cb382c9709a047a458577b5654a8b
+  - enabled: 1
+    path: Assets/Scenes/materi_termo3.unity
+    guid: ab2075263f9b9134abde118fe20860e0
+  - enabled: 1
+    path: Assets/Scenes/materi_termo4.unity
+    guid: eed9848f6f77b0048bb5ebaecc91ff19
+  - enabled: 1
+    path: Assets/Scenes/Video_termo.unity
+    guid: 74749274d7994a04b8ad729993b6d95d
+  - enabled: 1
+    path: Assets/Scenes/kuis_termo.unity
+    guid: 192171cabeb242e4c9fdf2a5393273bd
+  - enabled: 1
+    path: Assets/Scenes/simulasi_termo.unity
+    guid: 75f5bc01199a96049a8aa5f25f2e8e7c
+  m_configObjects: {}
